@@ -14,9 +14,11 @@ express()
     let arra = req.body.data
     let num = [];
     let alphabet =[];
-    // Change the user id as per user name and DOB
+    // Enter Your user id
     let user_id;
+    // Enter Your email id;
     let email;
+    // Enter Your Roll no;
     let rollNo;
     // Check whether the given array contains numeric elements or not
     let stat=false
