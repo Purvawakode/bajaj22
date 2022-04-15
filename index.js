@@ -15,11 +15,11 @@ express()
     let num = [];
     let alphabet =[];
     // Enter Your user id
-    let user_id;
+    let user_id = "Purva_Wakode_22052001;
     // Enter Your email id;
-    let email;
+    let email = "purvawakode2229@gmail.com;
     // Enter Your Roll no;
-    let rollNo;
+    let rollNo = "0827IT191089;
     // Check whether the given array contains numeric elements or not
     let stat=false
     arra.forEach((ele) => {
